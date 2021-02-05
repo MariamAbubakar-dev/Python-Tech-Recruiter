@@ -1,2 +1,2 @@
-# iOS-DEV-Tech-Recruiter
-I aa Tech Recruiter with a strong Enthusiasm for iOS development  
+# Python-Tech-Recruiter
+I am a Tech Recruiter with a strong enthusiast for Data Science. 
